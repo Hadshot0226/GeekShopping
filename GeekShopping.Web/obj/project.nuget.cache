@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qwEbvQvGvn8kvWTZcxVdMQoObHWi7Svr6xHyJ7h9n/ifdt00/HagKxK5jGB7qOYdAtO3xRvZaHT+ClWE4V65jw==",
+  "dgSpecHash": "ck5Cs0SPqqe7u9wpabUOyu/h2GuWI3gaicel6vgbAkIXg4wI9M22IQ2cH1pQT3i2a8pBfglKBT0pw4U6scHi2Q==",
   "success": true,
   "projectFilePath": "D:\\ProjetosMicroservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\trodrigo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\trodrigo\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
+    "C:\\Users\\trodrigo\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
+    "C:\\Users\\trodrigo\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
