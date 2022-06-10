@@ -40,7 +40,7 @@ namespace GeekShopping.Web.Controllers
 
         public IActionResult Logout()
         {
-            return SignOut("Cockies", "oidc");
+            return SignOut("Cookies", "oidc");
         }
     }
 }
