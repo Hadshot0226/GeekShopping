@@ -1,4 +1,4 @@
-﻿@model GeekShopping.Web.Models.ProductModel
+﻿@model GeekShopping.Web.Models.ProductViewModel
 
 <form method="post">
     <input asp-for="Id" hidden/>
@@ -29,15 +29,8 @@
                                 </div>
                             </div>
                             <div class="row px-4">
-                                <div class="col-12 col-md-8">
-                                </div>
-                                <div class="col-12 col-md-2">
-                                    Quantidade 
-                                </div>
-                                <div class="col-12 col-md-2">
-                                    <input asp-for="Count" class="form-control"/>
-                                    <span asp-validation-for="Count" class="text-danger"></span>
-                                </div>
+                                <input asp-for="Count" class="form-control"/>
+                                <span asp-validation-for="Count" class="text-danger"></span>
                             </div>
                         </div>
                     </div>
