@@ -2,7 +2,7 @@
 using GeekShopping.ProductAPI.Data.ValueObjects;
 using GeekShopping.ProductAPI.Model;
 
-namespace GeekShopping.ProductAPI.Config
+namespace GeekShopping.CartAPI.Config
 {
     public class MappingConfig
     {
