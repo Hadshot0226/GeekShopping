@@ -15,7 +15,7 @@ namespace GeekShopping.CartAPI.RabbitMQSender
 
         public RabbitMQMessageSender()
         {
-            _hostName = "172.20.187.129";
+            _hostName = "172.20.182.17";
             _password = "guest";
             _userName = "guest";
         }
